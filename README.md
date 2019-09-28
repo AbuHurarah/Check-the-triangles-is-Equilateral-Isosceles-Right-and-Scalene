@@ -1,0 +1,1 @@
+# Check-the-triangles-is-Equilateral-Isosceles-Right-and-Scalene
